@@ -51,7 +51,9 @@ In Atomic Habits, the book explains that to break a bad habit or do it less ofte
 ## Question 8:
 ## Pick one habit that you would like to do more of? What are the steps that you can take to make it make the cue obvious or the habit more attractive or easy and or response satisfying?
 Habit I want to do more of:
+
 Daily reading for at least 20 minutes.
+
 1.Make the Cue Obvious:
 
     Keep my book or e-reader on my bedside table or desk, clearly visible.
@@ -72,7 +74,9 @@ Daily reading for at least 20 minutes.
 ## Pick one habit that you would like to eliminate or do less of? What are the steps that you can take to make it make the cue invisible or the process unattractive or hard or the response unsatisfying?
 Habit I want to do less of:
 Sleeping late at night.
+
 Steps to Make Late-Night Sleeping Less Likely:
+
 1.Make the Cue Invisible:
 
     Avoid using screens (phone, laptop, TV) at least 1 hour before bedtime since blue light triggers alertness.
