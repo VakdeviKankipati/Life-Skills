@@ -3,21 +3,21 @@
 
 Sexual harassment includes unwelcome and inappropriate behavior of a sexual nature that can be verbal, non-verbal, physical, or visual. Examples include:
 
-    Unwanted touching or physical contact
+    Unwanted touching or physical contact.
 
-    Sexually suggestive remarks, jokes, or gestures
+    Sexually suggestive remarks, jokes, or gestures.
 
-    Inappropriate comments on appearance or body
+    Inappropriate comments on appearance or body.
 
-    Sharing sexually explicit content (messages, images, or videos)
+    Sharing sexually explicit content (messages, images, or videos).
 
-    Repeated requests for dates despite refusals
+    Repeated requests for dates despite refusals.
 
-    Stalking or following someone persistently
+    Stalking or following someone persistently.
 
-    Displaying offensive material in the workplace
+    Displaying offensive material in the workplace.
 
-    Making threats or promises in exchange for sexual favors
+    Making threats or promises in exchange for sexual favors.
 
 Such acts create a hostile, intimidating, or uncomfortable work environment.
 
@@ -31,7 +31,7 @@ If I face or witness sexual harassment:
 
     Report the incident to the Internal Committee (IC) or designated PoSH authority in the organization as per the company's policy.
 
-    Support the victim if I am a witness — encourage them to speak up and accompany them (if needed) to report the incident.
+    Support the victim if I am a witness, encourage them to speak up and accompany them (if needed) to report the incident.
 
     Maintain confidentiality and avoid spreading information.
 
