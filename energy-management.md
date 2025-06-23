@@ -1,31 +1,34 @@
 # Energy Management Reflection
 
-## 1. Calm Quadrant Activities
-**Question:** What are the activities you do that make you relax - Calm quadrant?  
-**Answer:**  
+
+## Manage Energy not Time
+
+**Question 1**  
+**What are the activities you do that make you relax - Calm quadrant?**  
 - Listening to music  
 - Going for a walk  
 - Meditation  
 - Drawing 
 
-## 2. Stress Quadrant Triggers
-**Question:** When do you find getting into the Stress quadrant?  
-**Answer:**  
+**Question 2**
+**When do you find getting into the Stress quadrant?**  
 - Approaching deadlines  
 - Public speaking  
 - Not eating on time
 - Managing multiple tasks simultaneously  
 
-## 3. Recognizing Excitement Quadrant
-**Question:** How do you understand if you are in the Excitement quadrant?  
-**Answer:**  
+**Question 3**  
+**How do you understand if you are in the Excitement quadrant?**  
 - Feeling enthusiastic and energetic  
 - Getting deeply immersed in a task  
 - Understanding the concept
 - learning concepts into depth 
 - Losing track of time while working  
 
-## 4. Sleep is Your Superpower
+## . Sleep is your superpower
+
+**Question 4**
+**Paraphrase the Sleep is your Superpower video in your own words in brief. Only the points, no explanation.**
 - Sleep enhances memory retention  
 - Poor sleep affects immune system 
 - No sleep will get angry issues 
@@ -33,20 +36,25 @@
 - Increases risk of heart diseases  
 - Deep sleep clears toxins from the brain  
 
-## 5. Sleep Improvement Ideas  
+**Question 5**
+**What are some ideas that you can implement to sleep better?**
 - Stick to a consistent sleep schedule  
 - Avoid screens an hour before bed  
 - Savasana will help
 - Practice relaxation or meditation before bed  
 - Limit caffeine and heavy meals before sleep  
 
-## 6. Brain Changing Benefits of Exercise (Video Summary) 
+## Brain Changing Benefits of Exercise
+
+**Question 6**
+**Paraphrase the video - Brain Changing Benefits of Exercise. Minimum 5 points, only the points.**
 - Boosts mood and reduces depression  
 - Improves memory and cognitive function  
 - Increases energy levels  
 - Enhances sleep quality  
 
-## 7. Steps to Exercise More  
+**Question 7**
+**What are some steps you can take to exercise more?**
 - Set a fixed time daily for physical activity  
 - Choose fun activities like dance or sports  
 - Use stairs instead of lifts
